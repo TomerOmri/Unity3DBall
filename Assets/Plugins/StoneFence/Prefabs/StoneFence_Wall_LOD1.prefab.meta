@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b1559853add1b50439493757eb5f57cd
+labels:
+- Stone
+- Fence
+- Wall
+- Post
+- Pillar
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
